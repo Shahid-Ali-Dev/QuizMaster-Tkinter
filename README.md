@@ -22,16 +22,11 @@ Built with **Tkinter**, it features instant feedback, a live score counter, and 
   pip install html5lib
 
 ## 📂 Project Structure
-graphql
-Copy
-Edit
-📁 quizmaster
-│── main.py              # Entry point of the app
-│── question_model.py     # Defines the Question class
-│── quiz_brain.py         # Handles quiz logic
-│── ui.py                 # Handles user interface
-│── data.py               # Contains or fetches quiz questions
-│── images/
-│    ├── true.png
-│    ├── false.png
-│── README.md
+- graphql
+- Copy
+- Edit
+- 📁 quizmaster
+- │── main.py              # Entry point of the app
+- │── question_model.py     # Defines the Question class
+- │── quiz_brain.py         # Handles quiz logic
+- │── ui.py                 # Handles user interface
